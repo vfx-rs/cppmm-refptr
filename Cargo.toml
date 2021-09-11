@@ -1,0 +1,8 @@
+[package]
+name = "cppmm-refptr"
+version = "0.1.0"
+edition = "2018"
+description="Non-owning references for cppmm types"
+license="BSD-3-Clause"
+
+[dependencies]
